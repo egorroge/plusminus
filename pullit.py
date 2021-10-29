@@ -1,2 +1,4 @@
-def plus(c, d)
-    return d + c
+from plusminus.plusminusdef import plus
+
+if __name__=='__main__':
+    print(plus(3,3)
